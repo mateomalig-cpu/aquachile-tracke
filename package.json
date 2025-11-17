@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.474.0",
+    "recharts": "^2.12.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
@@ -27,7 +29,7 @@
     "globals": "^16.4.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.17",
-    "typescript": "~5.9.3",
+    "typescript": "^5.9.3",
     "typescript-eslint": "^8.45.0",
     "vite": "^7.1.7"
   }
